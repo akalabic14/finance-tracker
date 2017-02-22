@@ -6,12 +6,14 @@ gem 'rails', '4.2.5'
 # Use Bootstrap
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'bootstrap_form'
-
 gem 'haml'
 
 gem 'will_paginate'
-
 gem 'bootstrap-will_paginate'
+
+gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
